@@ -1,47 +1,37 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=gradient&height=200&section=header&text=Vishal%20Munemanik&fontSize=70&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=VISHAL%20MUNEMANIK&fontSize=50&subText=DevOps%20%7C%20Cloud%20%7C%20Automation&subFontSize=20" />
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/vishal-munemanik">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:vishalmunemanik111@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+<a href="https://linkedin.com/in/vishal-munemanik"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:vishalmunemanik111@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<img src="https://img.shields.io/badge/Location-India-brightgreen?style=for-the-badge&logo=googlemaps&logoColor=white" />
 </p>
 
 ---
 
-### 👨‍💻 About Me
-I am an **Aspiring DevOps Engineer** driven by the philosophy of "Automate Everything." I bridge the gap between development and operations by building robust CI/CD pipelines and scalable cloud infrastructure.
-
-- ☁️ **Cloud Focus:** AWS | Azure | GCP
-- 🛠️ **Current Sprint:** Deep diving into Kubernetes Orchestration & Terraform.
-- 🎯 **Goal:** Architecting zero-downtime deployment environments.
+### 🟢 Service Status: Online
+> **Role:** Aspiring DevOps Engineer  
+> **Specialization:** CI/CD Pipelines & Infrastructure as Code  
+> **Main Stack:** AWS ☁️ | Docker 🐳 | Kubernetes ☸️
 
 ---
 
-### 🛠️ Tech Stack & Tooling
-<p align="left">
-  <img src="https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white" />
-  <img src="https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white" />
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white" />
-</p>
+### 🛠️ Infrastructure & Tooling
+| Category | Tools |
+| :--- | :--- |
+| **OS & Scripting** | ![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnu-bash&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black) |
+| **Cloud Platforms** | ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/-Azure-0089D6?logo=microsoft-azure&logoColor=white) ![GCP](https://img.shields.io/badge/-GCP-4285F4?logo=google-cloud&logoColor=white) |
+| **DevOps & CI/CD** | ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) ![K8s](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white) ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?logo=jenkins&logoColor=white) ![Terraform](https://img.shields.io/badge/-Terraform-623CE4?logo=terraform&logoColor=white) |
+| **Monitoring** | ![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?logo=prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/-Grafana-F46800?logo=grafana&logoColor=white) |
 
 ---
 
-### 📊 Vital Statistics
+### 📈 Deployment Activity
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=vishalmunemanik111-beep&show_icons=true&theme=tokyonight&count_private=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishalmunemanik111-beep&layout=compact&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=vishalmunemanik111-beep&show_icons=true&theme=dracula&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishalmunemanik111-beep&layout=compact&theme=dracula&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishalmunemanik111-beep&theme=tokyonight" alt="streak stats" />
-</p>
+  <img src="
